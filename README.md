@@ -1,4 +1,4 @@
-# Ticketmaarketplace
+# Ticketmarketplace
 
 ## Technology Stack & Tools
 
