@@ -10,7 +10,7 @@ const Navigation = ({ account, setAccount }) => {
   return (
     <nav>
       <div className='nav__brand'>
-        <h1>ticket marketplace</h1>
+        <h1>Airdrop Marketplace</h1>
 
         <input className='nav__search' type="text" placeholder='Find millions of experiences' />
 
