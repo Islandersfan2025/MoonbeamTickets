@@ -20,44 +20,44 @@ async function main() {
   // List 6 events
   const occasions = [
     {
-      name: "Pete Myers",
+      name: "Ethan McMahon",
       cost: tokens(3),
       tickets: 0,
-      date: "May 31",
+      date: "Oct 1",
       time: "6:00PM EST",
-      location: "Miami-Dade Arena - Miami, FL"
+      location: "Airdrop"
     },
     {
-      name: "Pete Myers Band",
+      name: "The Stooges",
       cost: tokens(1),
       tickets: 125,
-      date: "Jun 2",
-      time: "1:00PM JST",
-      location: "Tokyo, Japan"
+      date: "Aug 12",
+      time: "1:00PM PST",
+      location: "Aidrop"
     },
     {
-      name: "Pete Myers",
+      name: "Alan Michelson",
       cost: tokens(0.25),
       tickets: 200,
       date: "Jun 9",
-      time: "10:00AM TRT",
-      location: "Turkey, Istanbul"
+      time: "12pm EST",
+      location: "Airdrop"
     },
     {
-      name: "Pete Myers and Company",
+      name: "Pete Myers",
       cost: tokens(5),
       tickets: 0,
-      date: "Jun 11",
-      time: "2:30PM CST",
-      location: "American Airlines Center - Dallas, TX"
+      date: "Sept 17",
+      time: "12pm EST",
+      location: "Livestream"
     },
     {
-      name: "Pete Myers Experience",
+      name: "RocFather",
       cost: tokens(1.5),
       tickets: 125,
       date: "Jun 23",
-      time: "11:00AM EST",
-      location: "Toronto, Canada"
+      time: "12pm EST",
+      location: "Airdrop"
     }
   ]
 
