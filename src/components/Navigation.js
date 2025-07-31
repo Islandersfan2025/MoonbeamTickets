@@ -15,10 +15,10 @@ const Navigation = ({ account, setAccount }) => {
         <input className='nav__search' type="text" placeholder='Find millions of experiences' />
 
         <ul className='nav__links'>
-          <li><a href="/">Concerts</a></li>
-          <li><a href="/">Sports</a></li>
-          <li><a href="/">Arts & Theater</a></li>
-          <li><a href="/">More</a></li>
+          <li><a href="/">About</a></li>
+          <li><a href="/">AI Music</a></li>
+          <li><a href="/">Farcaster</a></li>
+          <li><a href="/">Documentation</a></li>
         </ul>
       </div>
 
