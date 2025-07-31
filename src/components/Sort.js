@@ -5,6 +5,7 @@ const Sort = () => {
   return (
     <div className="sort">
       <div className="sort__select">
+       <h1>Connect Wallet to view tickets</h>
         <p>Select Your Genre</p>
         <img src={down} alt="Dropdown" />
       </div>
