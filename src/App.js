@@ -58,7 +58,6 @@ function App() {
         <Navigation account={account} setAccount={setAccount} />
 
         <h2 className="header__title"><strong>Airdrop</strong> Tickets</h2>
-          <p>Connect Wallet to Moonbase Alpha to view tickets</p>
       </header>
 
       <Sort />
